@@ -1,5 +1,5 @@
-# Homework 2
-Software Engineering Homework 2
+# Communication Diagram
+Draw Communication Diagram using StarUML
 <br/>
 <br/>
 ## Team Member
