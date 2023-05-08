@@ -10,7 +10,7 @@ Repository for Software Engineering Homework
   </tr>
   <tr>
     <td style="text-align: center;"><strong></strong></td>
-    <td style="text-align: center;"><strong></strong>이선주</td>
+    <td style="text-align: center;"><strong>이선주</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;"><strong>rilato</strong></td>
@@ -18,10 +18,10 @@ Repository for Software Engineering Homework
   </tr>
   <tr>
     <td style="text-align: center;"><strong></strong></td>
-    <td style="text-align: center;"><strong></strong>하종훈</td>
+    <td style="text-align: center;"><strong>하종훈</strong></td>
   </tr>
   <tr>
     <td style="text-align: center;"><strong></strong></td>
-    <td style="text-align: center;"><strong></strong>허동민</td>
+    <td style="text-align: center;"><strong>허동민</strong></td>
   </tr>
 </table>
