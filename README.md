@@ -21,7 +21,7 @@ Repository for Software Engineering Homework
     <td style="text-align: center;"><strong>하종훈</strong></td>
   </tr>
   <tr>
-    <td style="text-align: center;"><strong></strong></td>
+    <td style="text-align: center;"><strong>hurdong</strong></td>
     <td style="text-align: center;"><strong>허동민</strong></td>
   </tr>
 </table>
