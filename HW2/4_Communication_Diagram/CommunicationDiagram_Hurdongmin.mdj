@@ -1,0 +1,105 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Untitled",
+	"ownedElements": [
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAFF+qBWK6M3Z8Y=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAFF+qBtyKM79qY=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Main",
+					"defaultDiagram": true
+				},
+				{
+					"_type": "UMLCollaboration",
+					"_id": "AAAAAAGIAJ2gXNxH9l0=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Collaboration1",
+					"ownedElements": [
+						{
+							"_type": "UMLInteraction",
+							"_id": "AAAAAAGIAJ2gXdxIxRM=",
+							"_parent": {
+								"$ref": "AAAAAAGIAJ2gXNxH9l0="
+							},
+							"name": "Interaction1",
+							"ownedElements": [
+								{
+									"_type": "UMLCommunicationDiagram",
+									"_id": "AAAAAAGIAJ2gXdxJlLg=",
+									"_parent": {
+										"$ref": "AAAAAAGIAJ2gXdxIxRM="
+									},
+									"name": "채용 정보 등록",
+									"ownedViews": [
+										{
+											"_type": "UMLFrameView",
+											"_id": "AAAAAAGIAJ2gXdxKzMU=",
+											"_parent": {
+												"$ref": "AAAAAAGIAJ2gXdxJlLg="
+											},
+											"model": {
+												"$ref": "AAAAAAGIAJ2gXdxJlLg="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIAJ2gXdxLUvU=",
+													"_parent": {
+														"$ref": "AAAAAAGIAJ2gXdxKzMU="
+													},
+													"font": "Arial;13;0",
+													"left": 64.72998046875,
+													"top": 37,
+													"width": 86.2236328125,
+													"height": 13,
+													"text": "채용 정보 등록"
+												},
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAGIAJ2gXdxMvrA=",
+													"_parent": {
+														"$ref": "AAAAAAGIAJ2gXdxKzMU="
+													},
+													"font": "Arial;13;1",
+													"left": 45,
+													"top": 37,
+													"width": 14.72998046875,
+													"height": 13,
+													"text": "sd"
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 40,
+											"top": 32,
+											"width": 692,
+											"height": 592,
+											"nameLabel": {
+												"$ref": "AAAAAAGIAJ2gXdxLUvU="
+											},
+											"frameTypeLabel": {
+												"$ref": "AAAAAAGIAJ2gXdxMvrA="
+											}
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}
