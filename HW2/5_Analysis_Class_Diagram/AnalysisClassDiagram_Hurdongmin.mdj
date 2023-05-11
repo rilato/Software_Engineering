@@ -1735,6 +1735,44 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGICpGAl5XvVKw="
 							}
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGICqT+kbShRvk=",
+							"_parent": {
+								"$ref": "AAAAAAGIBxLv4R3cc1M="
+							},
+							"font": "Arial;13;0",
+							"left": 344,
+							"top": 272,
+							"width": 60,
+							"height": 25,
+							"text": "1"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGICqUcabT2Flg=",
+							"_parent": {
+								"$ref": "AAAAAAGIBxLv4R3cc1M="
+							},
+							"font": "Arial;13;0",
+							"left": 440,
+							"top": 272,
+							"width": 60,
+							"height": 25,
+							"text": "1"
+						},
+						{
+							"_type": "UMLTextView",
+							"_id": "AAAAAAGICqUg+LVUH7s=",
+							"_parent": {
+								"$ref": "AAAAAAGIBxLv4R3cc1M="
+							},
+							"font": "Arial;13;0",
+							"left": 440,
+							"top": 384,
+							"width": 60,
+							"height": 15
 						}
 					]
 				},
