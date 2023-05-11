@@ -1,0 +1,73 @@
+[HurDong] Fri May 12 03:04:59 2023 +0900 Merge branch 'main' of https://github.com/rilato/Software_Engineering 6cd68ac
+[HurDong] Fri May 12 03:02:39 2023 +0900 update e0745a9
+[rilato] Fri May 12 03:00:34 2023 +0900 Update AnalysisClassDiagram.mdj 37c45ad
+[rilato] Fri May 12 02:47:49 2023 +0900 add UsecaseDescription.pdf and add RequirementList.pdf fffd034
+[HurDong] Fri May 12 02:41:32 2023 +0900 update fb52d29
+[rilato] Fri May 12 02:06:41 2023 +0900 add merged StarUML 3e9da7a
+[rilato] Thu May 11 21:30:05 2023 +0900 Create UsecaseClassDiagram_Leeyunsik.mdj 430af72
+[jh9788] Thu May 11 21:02:05 2023 +0900 Merge pull request #16 from jh9788/main acf4892
+[jh9788] Thu May 11 21:01:30 2023 +0900 Create AnalysisClassDiagram_Hajonghun.mdj 9366124
+[jh9788] Thu May 11 21:00:16 2023 +0900 Merge pull request #5 from rilato/main aa714ae
+[HurDong] Thu May 11 20:55:58 2023 +0900 Update AnalysisClassDiagram_Hurdongmin.mdj 2fe6383
+[HurDong] Thu May 11 20:42:07 2023 +0900 Update AnalysisClassDiagram_Hurdongmin 56685f2
+[HurDong] Thu May 11 20:05:39 2023 +0900 update communicationdiagram & add analysisclassdiagram_hurdongmin c726caf
+[sunjoolee] Thu May 11 17:05:40 2023 +0900 add UsecaseClassDiagram_LeeSunjoo.mdj f04d772
+[sunjoolee] Thu May 11 15:52:42 2023 +0900 Merge pull request #15 from sunjoolee/main 9913fee
+[sunjoolee] Thu May 11 15:51:41 2023 +0900 Merge branch 'rilato:main' into main 734a04c
+[sunjoolee] Thu May 11 15:51:12 2023 +0900 Update CommunicationDiagrams_LeeSunjoo.mdj ef2405b
+[jh9788] Thu May 11 15:49:09 2023 +0900 Merge pull request #14 from jh9788/main 06bd212
+[jh9788] Thu May 11 15:48:33 2023 +0900 jonghun communication a07faac
+[jh9788] Thu May 11 15:47:43 2023 +0900 Merge pull request #4 from rilato/main 181608a
+[rilato] Thu May 11 13:12:49 2023 +0900 Create CommunicationDiagram_LeeYunsik.mdj 3d45d54
+[HurDong] Thu May 11 03:21:14 2023 +0900 Update CommunicationDiagram_Hurdongmin.mdj 0a77f62
+[jh9788] Wed May 10 17:49:57 2023 +0900 Merge pull request #13 from jh9788/main 39316a0
+[jh9788] Wed May 10 17:49:12 2023 +0900 jonghun description c38a555
+[jh9788] Wed May 10 17:47:16 2023 +0900 Merge pull request #3 from rilato/main e094b93
+[sunjoolee] Wed May 10 15:14:42 2023 +0900 Merge pull request #12 from sunjoolee/main fdaac58
+[sunjoolee] Wed May 10 15:13:52 2023 +0900 add UsecaseDiagram_LeeSunjoo.mdj 9987db9
+[sunjoolee] Wed May 10 15:13:31 2023 +0900 Delete UseCaseDiagram_LeeSunjoo.png f19b4a3
+[sunjoolee] Wed May 10 15:12:14 2023 +0900 add CommunicationDiagrams_LeeSunjoo.mdj 401ad80
+[sunjoolee] Wed May 10 15:04:49 2023 +0900 add UsecaseDescriptions_LeeSunjoo.pdf 5c7b00f
+[sunjoolee] Wed May 10 14:47:08 2023 +0900 add UseCaseDiagram_LeeSunjoo.png 2542f3c
+[sunjoolee] Wed May 10 14:44:35 2023 +0900 add RequirementList_LeeSunjoo.pdf 6a13202
+[sunjoolee] Wed May 10 14:37:47 2023 +0900 Update README.md ac7a8bb
+[HurDong] Wed May 10 04:21:54 2023 +0900 Merge pull request #11 from rilato/hurdong 0fe305c
+[HurDong] Wed May 10 04:19:32 2023 +0900 Update UsecaseDescription & Create CommunicationDiagram_Hurdongmin 0276331
+[HurDong] Wed May 10 02:01:26 2023 +0900 Update CommunicationDiagram_Hurdongmin.mdj 973357f
+[HurDong] Tue May 9 22:24:06 2023 +0900 Create CommunicationDiagram_Hurdongmin c07753f
+[HurDong] Tue May 9 22:04:03 2023 +0900 Merge pull request #10 from rilato/hurdong a1e6e2f
+[HurDong] Tue May 9 22:02:52 2023 +0900 Add UsecaseDescription_Hurdongmin c8e29b5
+[jh9788] Tue May 9 15:29:54 2023 +0900 Merge pull request #9 from jh9788/main 7c2d82e
+[jh9788] Tue May 9 15:29:08 2023 +0900 usecase diagram 802ba53
+[jh9788] Tue May 9 14:48:30 2023 +0900 Merge pull request #8 from jh9788/main 145476a
+[jh9788] Tue May 9 14:47:48 2023 +0900 Create RequirementList_Hajonghun.pdf 4556a8b
+[jh9788] Tue May 9 14:28:51 2023 +0900 Merge pull request #2 from rilato/main d620685
+[HurDong] Tue May 9 03:52:56 2023 +0900 Update README.md 41f1160
+[HurDong] Tue May 9 02:29:55 2023 +0900 Merge pull request #7 from rilato/hurdong 01ac2a6
+[HurDong] Tue May 9 02:10:41 2023 +0900 Merge pull request #6 from rilato/main 6b39c3e
+[HurDong] Mon May 8 23:41:31 2023 +0900 add requirementlist_Hurdong 7d8e5ac
+[HurDong] Mon May 8 20:54:24 2023 +0900 Merge pull request #5 from rilato/hurdong 0775330
+[HurDong] Mon May 8 20:51:37 2023 +0900 add usecasediagram_hurdong a352e8b
+[Yunsik Lee] Mon May 8 19:41:36 2023 +0900 Update README.md 9a3fc75
+[Yunsik Lee] Mon May 8 19:40:49 2023 +0900 Update README.md 0f20cc3
+[Yunsik Lee] Mon May 8 19:40:14 2023 +0900 Update README.md ef0d959
+[rilato] Mon May 8 19:38:36 2023 +0900 add RequirementList folder & UsecaseDescription folder & AnalysisClassDiagram folder & Upload files that Yoonsik worked on 7386043
+[rilato] Mon May 8 19:14:04 2023 +0900 Create UsecaseDiagram_Leeyunsik.mdj 59f90de
+[Yunsik Lee] Mon May 8 18:36:05 2023 +0900 Update README.md 8eab39e
+[Yunsik Lee] Mon May 8 18:35:19 2023 +0900 Update README.md d447ca2
+[rilato] Mon May 8 18:34:10 2023 +0900 add Usecase_Diagram folder & Communication_Diagram folder c246324
+[jh9788] Mon May 8 17:26:39 2023 +0900 Merge pull request #4 from jh9788/main bd26a3e
+[sunjoolee] Mon May 8 17:24:53 2023 +0900 Merge pull request #3 from sunjoolee/main 61ce549
+[sunjoolee] Mon May 8 17:24:13 2023 +0900 Merge pull request #1 from rilato/main ac85fbd
+[jh9788] Mon May 8 17:24:08 2023 +0900 Merge pull request #1 from rilato/main 9bb85e2
+[sunjoolee] Mon May 8 17:22:55 2023 +0900 Delete test.txt.txt 2e72c9b
+[jh9788] Mon May 8 17:22:47 2023 +0900 Delete 하종훈 test.pdf bc23fef
+[sunjoolee] Mon May 8 17:21:36 2023 +0900 Merge pull request #2 from jh9788/main 381c7ce
+[sunjoolee] Mon May 8 17:21:21 2023 +0900 Merge pull request #1 from sunjoolee/main 8e92d5b
+[sunjoolee] Mon May 8 17:17:13 2023 +0900 Revert "Update README.md" 5fb8451
+[sunjoolee] Mon May 8 17:16:29 2023 +0900 Create test.txt.txt 20641c6
+[jh9788] Mon May 8 17:15:32 2023 +0900 Create 하종훈 test.pdf 5f159c9
+[Yunsik Lee] Mon May 8 17:11:29 2023 +0900 Update README.md 56aa218
+[Yunsik Lee] Mon May 8 13:39:40 2023 +0900 Update README.md 25a43fb
+[Yunsik Lee] Mon May 8 13:39:14 2023 +0900 Update README.md 8c9acd7
+[rilato] Mon May 8 13:13:26 2023 +0900 init bb05462
