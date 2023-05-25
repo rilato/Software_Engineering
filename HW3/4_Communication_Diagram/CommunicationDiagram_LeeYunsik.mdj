@@ -52,7 +52,7 @@
 												"$ref": "AAAAAAGICazRypVwvHg="
 											},
 											"font": "Arial;13;0",
-											"left": 48.72998046875,
+											"left": 48.45703125,
 											"top": 45,
 											"width": 53,
 											"height": 13,
@@ -67,7 +67,7 @@
 											"font": "Arial;13;1",
 											"left": 29,
 											"top": 45,
-											"width": 14.72998046875,
+											"width": 14.45703125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -4106,9 +4106,9 @@
 												"$ref": "AAAAAAGICa6F4auSGIM="
 											},
 											"font": "Arial;13;0",
-											"left": 104.72998046875,
+											"left": 104.45703125,
 											"top": 117,
-											"width": 86.2236328125,
+											"width": 88.140625,
 											"height": 13,
 											"text": "채용 정보 등록"
 										},
@@ -4121,7 +4121,7 @@
 											"font": "Arial;13;1",
 											"left": 85,
 											"top": 117,
-											"width": 14.72998046875,
+											"width": 14.45703125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -6123,7 +6123,7 @@
 			"_parent": {
 				"$ref": "AAAAAAFF+h6SjaM2Hec="
 			},
-			"name": "6. 등록한 채용 정보 리스트 조회",
+			"name": "6. 등록된 채용 정보 조회",
 			"ownedElements": [
 				{
 					"_type": "UMLInteraction",
@@ -6139,7 +6139,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGICbCDZrXxm/0="
 							},
-							"name": "등록한 채용정보 리스트 조회",
+							"name": "등록된 채용정보 조회",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -6160,9 +6160,9 @@
 											"font": "Arial;13;0",
 											"left": 104.72998046875,
 											"top": 69,
-											"width": 167.83544921875,
+											"width": 125.2236328125,
 											"height": 13,
-											"text": "등록한 채용정보 리스트 조회"
+											"text": "등록된 채용정보 조회"
 										},
 										{
 											"_type": "LabelView",
@@ -8114,9 +8114,9 @@
 												"$ref": "AAAAAAGIUnkpOCuIhyY="
 											},
 											"font": "Arial;13;0",
-											"left": 661.20458984375,
+											"left": 660.192138671875,
 											"top": 327,
-											"width": 102.5908203125,
+											"width": 104.61572265625,
 											"height": 13,
 											"alpha": -1.57079591012823,
 											"distance": 24,
@@ -8197,9 +8197,9 @@
 												"$ref": "AAAAAAGIUnsYTz+lYlk="
 											},
 											"font": "Arial;13;0",
-											"left": 262.86279296875,
+											"left": 261.9931640625,
 											"top": 264,
-											"width": 111.2744140625,
+											"width": 113.013671875,
 											"height": 13,
 											"alpha": 1.570795771239341,
 											"distance": 18,
@@ -8280,9 +8280,9 @@
 												"$ref": "AAAAAAGIUn7xCkVNEZg="
 											},
 											"font": "Arial;13;0",
-											"left": 636.544189453125,
+											"left": 636.40771484375,
 											"top": 264,
-											"width": 153.91162109375,
+											"width": 154.1845703125,
 											"height": 13,
 											"alpha": 1.5707957017948966,
 											"distance": 16,
