@@ -52,7 +52,7 @@
 												"$ref": "AAAAAAGICazRypVwvHg="
 											},
 											"font": "Arial;13;0",
-											"left": 48.45703125,
+											"left": 48.72998046875,
 											"top": 45,
 											"width": 53,
 											"height": 13,
@@ -67,7 +67,7 @@
 											"font": "Arial;13;1",
 											"left": 29,
 											"top": 45,
-											"width": 14.45703125,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -3471,11 +3471,11 @@
 											},
 											"font": "Arial;13;0",
 											"left": 415.283935546875,
-											"top": 151,
+											"top": 135,
 											"width": 362.43212890625,
 											"height": 13,
-											"alpha": -4.508371331464912,
-											"distance": 29.614185789921695,
+											"alpha": -4.5798376664286335,
+											"distance": 45.39823785126467,
 											"text": "3.1 [memberType ==\"company\"] : registerCompanyMember()"
 										},
 										{
@@ -4106,9 +4106,9 @@
 												"$ref": "AAAAAAGICa6F4auSGIM="
 											},
 											"font": "Arial;13;0",
-											"left": 104.45703125,
+											"left": 104.72998046875,
 											"top": 117,
-											"width": 88.140625,
+											"width": 86.2236328125,
 											"height": 13,
 											"text": "채용 정보 등록"
 										},
@@ -4121,7 +4121,7 @@
 											"font": "Arial;13;1",
 											"left": 85,
 											"top": 117,
-											"width": 14.45703125,
+											"width": 14.72998046875,
 											"height": 13,
 											"text": "sd"
 										}
@@ -4380,7 +4380,7 @@
 													"top": 543,
 													"width": 232.2099609375,
 													"height": 13,
-													"text": "newRecruitInfo: RecruitInfo"
+													"text": ": RecruitInfo"
 												},
 												{
 													"_type": "LabelView",
@@ -5932,7 +5932,6 @@
 							"_parent": {
 								"$ref": "AAAAAAGICa6F4auQbqk="
 							},
-							"name": "newRecruitInfo",
 							"represent": {
 								"$ref": "AAAAAAGICa6F4awQwic="
 							},
@@ -6648,13 +6647,13 @@
 												"$ref": "AAAAAAGICbCDZ7ZvDj0="
 											},
 											"font": "Arial;13;0",
-											"left": 943.9564208984375,
-											"top": 430.5,
-											"width": 139.087158203125,
+											"left": 938.794189453125,
+											"top": 423.5,
+											"width": 173.41162109375,
 											"height": 13,
-											"alpha": -0.08515938228455369,
-											"distance": 82.29823813423954,
-											"text": "2.1.1 : getRecruitInfo"
+											"alpha": 0.010637895443935813,
+											"distance": 94.00531899844816,
+											"text": "2.1.1 : viewAddedRecruitList()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -8197,13 +8196,13 @@
 												"$ref": "AAAAAAGIUnsYTz+lYlk="
 											},
 											"font": "Arial;13;0",
-											"left": 261.9931640625,
+											"left": 258.53369140625,
 											"top": 264,
-											"width": 113.013671875,
+											"width": 119.9326171875,
 											"height": 13,
 											"alpha": 1.570795771239341,
 											"distance": 18,
-											"text": "2 : showRecruitInfo"
+											"text": "2 : showRecruitInfo()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -8280,13 +8279,13 @@
 												"$ref": "AAAAAAGIUn7xCkVNEZg="
 											},
 											"font": "Arial;13;0",
-											"left": 636.40771484375,
+											"left": 632.215087890625,
 											"top": 264,
-											"width": 154.1845703125,
+											"width": 162.56982421875,
 											"height": 13,
 											"alpha": 1.5707957017948966,
 											"distance": 16,
-											"text": "2.1 : viewAddedRecruitList"
+											"text": "2.1 : viewAddedRecruitList()"
 										},
 										{
 											"_type": "NodeLabelView",
@@ -8354,7 +8353,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGICbCDZrXxm/0="
 							},
-							"name": "getRecruitInfo",
+							"name": "viewAddedRecruitList()",
 							"source": {
 								"$ref": "AAAAAAGICbCDZ7ZzVog="
 							},
@@ -8390,7 +8389,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGICbCDZrXxm/0="
 							},
-							"name": "showRecruitInfo",
+							"name": "showRecruitInfo()",
 							"source": {
 								"$ref": "AAAAAAGICbCDZ7Z3Vuk="
 							},
@@ -8408,7 +8407,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGICbCDZrXxm/0="
 							},
-							"name": "viewAddedRecruitList",
+							"name": "viewAddedRecruitList()",
 							"source": {
 								"$ref": "AAAAAAGICbCDZ7Z2ERg="
 							},
