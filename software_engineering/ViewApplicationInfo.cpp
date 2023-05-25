@@ -1,0 +1,1 @@
+#include "ViewApplicationInfo.h"
